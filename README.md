@@ -1,2 +1,2 @@
-# -GAS-LINE-Messaging-API-LINE-
+# -GAS-LINE Messaging-API-
 GASのコードだけ載せておきます。
